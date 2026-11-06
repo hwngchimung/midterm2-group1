@@ -1,0 +1,42 @@
+{
+  "raw_rows": 1303,
+  "raw_columns": 13,
+  "missing_cells": 0,
+  "blank_strings": 0,
+  "duplicate_ids": 0,
+  "exact_duplicate_rows": 0,
+  "duplicates_without_id": 28,
+  "clean_rows": 1275,
+  "companies": 19,
+  "price_mean": 1134.9690588235292,
+  "price_median": 989.0,
+  "price_min": 174.0,
+  "price_max": 6099.0,
+  "price_q1": 609.0,
+  "price_q3": 1496.5,
+  "price_skew": 1.511146749634856,
+  "iqr_lower": -722.25,
+  "iqr_upper": 2827.75,
+  "iqr_flagged": 28,
+  "ssd_n": 837,
+  "non_ssd_n": 438,
+  "ssd_median": 1265.0,
+  "non_ssd_median": 567.0,
+  "ssd_median_diff": 698.0,
+  "ssd_median_diff_ci95": [
+    612.0,
+    755.5
+  ],
+  "ram_rho": 0.7642484695916761,
+  "ppi_rho": 0.5112024416914996,
+  "weight_rho": -0.025025930471591656,
+  "source_url": "https://www.kaggle.com/datasets/muhammetvarl/laptop-price",
+  "source_sha256": "e5cd3296b994d10e27ada65b4af529725b3e1bdd320e61ec7fb4fe6bfa4fc7c4",
+  "versions": {
+    "python": "3.12.14",
+    "pandas": "3.0.1",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  }
+}

@@ -1,0 +1,14 @@
+field,dtype,missing,missing_pct,blank_strings,unique_values
+laptop_ID,int64,0,0.0,0,1303
+Company,str,0,0.0,0,19
+Product,str,0,0.0,0,618
+TypeName,str,0,0.0,0,6
+Inches,float64,0,0.0,0,18
+ScreenResolution,str,0,0.0,0,40
+Cpu,str,0,0.0,0,118
+Ram,str,0,0.0,0,9
+Memory,str,0,0.0,0,39
+Gpu,str,0,0.0,0,110
+OpSys,str,0,0.0,0,9
+Weight,str,0,0.0,0,179
+Price_euros,float64,0,0.0,0,791

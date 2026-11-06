@@ -1,0 +1,13 @@
+{
+  "university": "Đại học Kinh tế Quốc dân",
+  "institute": "Viện Đào tạo Tiên tiến, Chất lượng cao và POHE",
+  "course": "Khoa học dữ liệu",
+  "group": "Nhóm 1",
+  "members": [
+    {"name": "Trần Hương Nhi", "student_id": "11243708"},
+    {"name": "Nguyễn Thúy Anh", "student_id": "11243888"},
+    {"name": "Trần Minh Ngọc", "student_id": "11242573"},
+    {"name": "Đàm Phương Linh", "student_id": "11243309"}
+  ],
+  "github_url": null
+}

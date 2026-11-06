@@ -1,0 +1,4 @@
+hypothesis,test,statistic,p_raw,effect,effect_name,p_holm,reject_H0_at_0.05
+H1 RAM-price,Spearman greater,0.7642484695916761,4.650682280864747e-245,0.7642484695916761,Spearman rho,1.3952046842594242e-244,True
+H2 SSD-price,Mann-Whitney greater,316661.0,1.600448506939751e-101,0.8637638227415809,P(SSD>non-SSD)+0.5*P(tie),1.600448506939751e-101,True
+H3 type-price,Kruskal-Wallis,545.5611119205014,1.1624643632559181e-115,0.42597408346769217,epsilon squared H,2.3249287265118363e-115,True

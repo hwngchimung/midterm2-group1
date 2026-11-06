@@ -1,0 +1,12 @@
+{
+  "retrieved_on": "2026-11-05",
+  "neu_logo.webp": {
+    "source_url": "https://neu.edu.vn/wp-content/uploads/2026/01/Bieu-tuong-1-1-scaled.webp",
+    "source_page": "https://neu.edu.vn/he-thong-nhan-dien/"
+  },
+  "aep_logo_original.png": {
+    "source_url": "https://aep.neu.edu.vn/wp-content/uploads/2022/11/logo-AEp-CHUAN.svg",
+    "source_page": "https://aep.neu.edu.vn/",
+    "method": "Extracted the original embedded PNG bytes without pixel modification"
+  }
+}
