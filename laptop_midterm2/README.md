@@ -25,6 +25,8 @@ Bộ tài liệu hỗ trợ phân tích theo bốn giai đoạn ở mục II c�
 | `data/raw/laptop_price.csv` | Dữ liệu gốc được cung cấp |
 | `data/processed/laptop_clean.csv` | Dữ liệu sau bỏ trùng và tách đơn vị, giữ cờ IQR |
 
+(Script không cần thiết đâu nhé, chỉ dùng để dựng lại tài liệu thôi)
+
 ## Nguồn
 
 Đề Mid-Term 2 do giảng viên cung cấp, mục II. URL tập dữ liệu theo đề: [Laptop Price - muhammetvarl, Kaggle](https://www.kaggle.com/datasets/muhammetvarl/laptop-price). Các thống kê được tính trực tiếp từ bản CSV đi kèm; không suy đoán thời điểm thu thập mà file không cung cấp.
